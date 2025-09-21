@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Geminiash</h1>
+<img width="445" height="424" alt="image" src="https://github.com/user-attachments/assets/10aee32a-9a8e-4167-a2e1-ebf7a2c3650a" /><h1 align="center">Hi, I'm ACYE</h1>
 <h3 align="center">专注的Java后端开发者 | 性能优化爱好者</h3>
 
 <div align="center">
@@ -29,9 +29,9 @@
 
 ---
 
-## 📜 认证与教育
+## 📜 教育与竞赛经历
 
-- **Python软件开发工程师认证** - 中国软件行业协会
+- **CCF-CAT全国算法精英大赛全国总决赛优胜奖** - 中国计算机协会（CCF）
 - **持续学习** - 深入学习企业级应用开发
 
 ---
