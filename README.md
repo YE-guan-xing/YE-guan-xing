@@ -57,8 +57,7 @@
 
 > "代码是解决问题的艺术，而性能是衡量解决方案优劣的标准。"
 
-<div align="center">
-  
-  < img src="https://visitor-badge.laobi.icu/badge?page_id=Geminiash.Geminiash" alt="访客统计" />
-
+<div align="center" style="display: flex; align-items: center; gap: 8px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YE-guan-xing.YE-guan-xing" alt="访客统计" />
+  <span>访客统计</span>
 </div>
