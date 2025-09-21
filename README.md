@@ -48,8 +48,8 @@
 
 ## 📞 联系方式
 
-- **邮箱**: 3130752357@qq.com
-- **GitHub**: [github.com/Geminiash](https://github.com/Geminiash)
+- **邮箱**: 2024352805@qq.com
+- **GitHub**: [github.com/YE-guan-xing](https://github.com/YE-guan-xing)
 
 ---
 
