@@ -1,4 +1,4 @@
-<img width="445" height="424" alt="image" src="https://github.com/user-attachments/assets/10aee32a-9a8e-4167-a2e1-ebf7a2c3650a" /><h1 align="center">Hi, I'm ACYE</h1>
+<h1 align="center">Hi, I'm ACYE</h1>
 <h3 align="center">专注的Java后端开发者 | 性能优化爱好者</h3>
 
 <div align="center">
@@ -19,7 +19,7 @@
 - **Spring框架**: 熟悉Spring Boot、Spring MVC、Spring Data JPA
 - **API开发**: RESTful API设计、微服务架构
 - **性能工程**: 负载测试、压力测试、系统性能分析与优化
-- **Python开发**: Flask框架、脚本编写、自动化工具开发
+- **Python开发**: Flask框架、脚本编写、自动化工具开发 
 
 ### 工具与平台
 - **开发工具**: IntelliJ IDEA, VS Code, Git, Maven
@@ -50,6 +50,7 @@
 
 - **邮箱**: 2024352805@qq.com
 - **GitHub**: [github.com/YE-guan-xing](https://github.com/YE-guan-xing)
+- **Codeforces**: username: acye  <!-- 修正：拼写（Codeforces）+ 格式（列表项规范） -->
 
 ---
 
